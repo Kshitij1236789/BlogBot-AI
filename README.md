@@ -92,24 +92,6 @@ API_KEY=AIzaSyB-gl96HjvIRNiuSIe-R1gL2HxnjQgpTvo
 # The port for the server to run on
 PORT=5000
 
-Start the backend server:
-
-npm start
-
-The server should now be running on http://localhost:5000.
-
-Frontend Setup
-Navigate to the frontend directory:
-
-cd ../frontend
-
-Install NPM packages:
-
-npm install
-
-Start the frontend development server:
-
-npm run dev
 
 The React application should now be running and accessible at http://localhost:5173 (or another port specified by Vite).
 
