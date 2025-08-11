@@ -41,6 +41,8 @@ Google Generative AI API (Gemini): The core AI service used for content generati
 
 node-cron: A simple cron-like job scheduler for Node.js to handle automated post generation.
 
+/******/
+
 📂 Project Structure
 /blog-ai/
 ├── backend/
