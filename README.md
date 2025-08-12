@@ -85,11 +85,11 @@ Create an environment file:
 Create a file named .env in the backend directory and add the following variables:
 
 # Your MongoDB connection string
-MONGODB_URI=mongodb+srv://shantakatyal77:MyPassword123@cluster0.3pjussh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
 
 
 # Your Google Generative AI API Key
-API_KEY=AIzaSyB-gl96HjvIRNiuSIe-R1gL2HxnjQgpTvo
+
 
 # The port for the server to run on
 PORT=5000
